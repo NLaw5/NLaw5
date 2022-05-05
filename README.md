@@ -4,7 +4,7 @@ I'm currently a graduate in Computer Programming and Analysis (Co-op) at [Seneca
 
 - 🌱 I’m currently learning everything involving Web development 
 - 📫 How to reach me: newn.law123@gmail.com
-- ⚡ Fun fact: I love playing music (keyboard and violin player) and video games.
+- ⚡ Fun fact: I love playing music (keyboard and violin) and video games.
 ---
 ### 💻 Languages and Tools
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
