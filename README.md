@@ -34,7 +34,7 @@ I'm currently a graduate in Computer Programming and Analysis (Co-op) at [Seneca
 ![image](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=NLaw5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
