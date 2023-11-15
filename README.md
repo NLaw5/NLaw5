@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Newman 
 ---
-I'm currently a graduate in Computer Programming and Analysis (Co-op) at [Seneca College](https://www.senecacollege.ca/programs/fulltime/CPA.html). I'm passionate about web development and am always eager to learn new things about this field. Come check out my [porfolio](https://newman-law-portfolio-alpha.vercel.app/)!
+I'm currently a graduate in Computer Programming and Analysis (Co-op) at [Seneca College](https://www.senecacollege.ca/programs/fulltime/CPA.html). I'm passionate about web development and am always eager to learn new things about this field. Come check out my [portfolio](https://newman-law-portfolio-alpha.vercel.app/)!
 
 - 🌱 I’m currently learning everything involving Web development 
 - 📫 How to reach me: newn.law123@gmail.com
